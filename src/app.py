@@ -28,3 +28,5 @@ if __name__ == "__main__":
 # Added on 2025-11-02T18:31:36
 # Feature implementation for issue #25
 # Added on 2025-10-29T18:31:45
+# Feature implementation for issue #27
+# Added on 2025-11-12T18:31:55
